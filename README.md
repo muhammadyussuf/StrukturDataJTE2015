@@ -1,1 +1,0 @@
-# StrukturDataJTE2015
