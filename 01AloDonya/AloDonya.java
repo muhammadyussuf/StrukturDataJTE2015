@@ -8,6 +8,6 @@
 public class AloDonya
 {
    public static void main(String args[])
-   {System.out.println("Alo Donyas mandum!");
+   {System.out.println("Alo Donyas mandum ya!");
 }
 }
